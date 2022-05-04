@@ -1,0 +1,10 @@
+Discover
+	In the first mode of UX design, the discover mode performs data gathering and evaluation process and more questions are needed than answers in that mode. Some effective tools we can use in the discover mode include interviews, online surveys, questionnaires and user observations.
+Draft
+	The next Draft mode compiles information which already learned in discover mode and put the information in useful tools that can help user’s decision making. For the UI/UX designers, they build the software by drafting the relationship between information and interactions.	Personas, System Flow Chart, Design Principles, Screen Design can be used in the draft mode.	
+Build
+	The build mode brings the software into real life. Since basic structure are already known in the first two modes, this mode begins to add elements to the system. For instance, elements will be needed to add on the application screen might be content, images, forms, icons, button and so on. And interaction design should include good design, attention, divergent thinking and it should be easy to use. In that mode, some tools like design studio, wireframes and prototypes can be used.
+Test
+	After developing the product, next step is the test mode in which you need to test the system what is working or what is not. Some tools we can use in the test mode are usability testing, performance testing, security testing and heuristic evaluations.
+Analyze
+	If the developed product has successfully done the testing stages, it is important to analyze the final results, personal evaluation and make iteration on the design as needed. In that mode, testing reports and user design workshops can be used as effective tools.

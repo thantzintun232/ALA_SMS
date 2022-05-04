@@ -1,0 +1,1 @@
+To live use the system, firstly create the database name "ala_sms" and import the database file from the database folder.

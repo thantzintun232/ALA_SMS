@@ -1,0 +1,29 @@
+Database (create)
+- table/s  (create)
+   - field/s (columns)
+   - records (rows)
+
+- insert (data)
+- select all/select (specific)
+- delete
+- update
+
+
+SQL
+Table create
+"create table IF NOT EXISTS book(bid unique, bname varchar, isbn varchar)"
+
+Insert Data
+"insert into book(bid,bname,isbn) values (1,'java','00-99-373664')"
+"insert into book(bid,bname,isbn) values (2,'php','00-78-354400')"
+"insert into book(bid,bname,isbn) values (3,'android','00-67-234456')"
+
+Retrieve Data
+"select * from book"  //all records
+"select * from book where bname LIKE '%java%'"  //bid=1
+
+Delete
+"delete from book where bid=1"
+
+Update
+"update book set bname='Intro java' where bid=1"
